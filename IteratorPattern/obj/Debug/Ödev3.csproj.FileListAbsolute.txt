@@ -1,0 +1,6 @@
+c:\users\emir9\documents\visual studio 2015\Projects\Ödev3Tasarım\Ödev3\bin\Debug\Ödev3.exe.config
+c:\users\emir9\documents\visual studio 2015\Projects\Ödev3Tasarım\Ödev3\obj\Debug\Ödev3.csprojResolveAssemblyReference.cache
+c:\users\emir9\documents\visual studio 2015\Projects\Ödev3Tasarım\Ödev3\bin\Debug\Ödev3.exe
+c:\users\emir9\documents\visual studio 2015\Projects\Ödev3Tasarım\Ödev3\bin\Debug\Ödev3.pdb
+c:\users\emir9\documents\visual studio 2015\Projects\Ödev3Tasarım\Ödev3\obj\Debug\Ödev3.exe
+c:\users\emir9\documents\visual studio 2015\Projects\Ödev3Tasarım\Ödev3\obj\Debug\Ödev3.pdb

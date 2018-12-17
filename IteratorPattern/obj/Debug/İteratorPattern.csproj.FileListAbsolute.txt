@@ -1,0 +1,6 @@
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\Ödev3Tasarım\Odev3\bin\Debug\Ödev3.exe.config
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\Ödev3Tasarım\Odev3\obj\Debug\Ödev3.exe
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\Ödev3Tasarım\Odev3\obj\Debug\Ödev3.pdb
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\Ödev3Tasarım\Odev3\bin\Debug\Ödev3.exe
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\Ödev3Tasarım\Odev3\bin\Debug\Ödev3.pdb
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\Ödev3Tasarım\Odev3\obj\Debug\İteratorPattern.csprojResolveAssemblyReference.cache

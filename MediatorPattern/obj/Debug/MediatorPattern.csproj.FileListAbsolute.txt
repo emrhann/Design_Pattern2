@@ -1,0 +1,6 @@
+c:\users\emir9\documents\visual studio 2015\Projects\Ödev3Tasarım\MediatorPattern\bin\Debug\MediatorPattern.exe.config
+c:\users\emir9\documents\visual studio 2015\Projects\Ödev3Tasarım\MediatorPattern\obj\Debug\MediatorPattern.csprojResolveAssemblyReference.cache
+c:\users\emir9\documents\visual studio 2015\Projects\Ödev3Tasarım\MediatorPattern\bin\Debug\MediatorPattern.exe
+c:\users\emir9\documents\visual studio 2015\Projects\Ödev3Tasarım\MediatorPattern\bin\Debug\MediatorPattern.pdb
+c:\users\emir9\documents\visual studio 2015\Projects\Ödev3Tasarım\MediatorPattern\obj\Debug\MediatorPattern.exe
+c:\users\emir9\documents\visual studio 2015\Projects\Ödev3Tasarım\MediatorPattern\obj\Debug\MediatorPattern.pdb
